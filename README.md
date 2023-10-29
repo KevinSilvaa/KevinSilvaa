@@ -7,24 +7,26 @@
 
 <div align='center'>
   <h2>👨🏻‍💻 My Tech Stack</h2><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,sass,tailwind,git" alt"Tech Stack logos">
+  </a>
+   <br>
+   <br>
+   <br>
+  <h3>Tools that I use</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,github">
 </div>
 
 &nbsp;
 &nbsp;
+
 
 <h3 align= 'center'>
   :email: How to reach me:
 </h3>
 <div align= 'center'>
 <a href="https://www.linkedin.com/in/Kevinsilvaa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href = "mailto:kevinsilvarj10@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:kevinsilvarj10@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/kevin.silvarj" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
