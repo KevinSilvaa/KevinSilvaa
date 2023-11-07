@@ -22,12 +22,11 @@
 
 
 <h3 align= 'center'>
-  :email: How to reach me:
+  :email: Connect with me:
 </h3>
-<div align= 'center'>
-<a href="https://www.linkedin.com/in/Kevinsilvaa" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href="mailto:kevinsilvarj10@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/kevin.silvarj" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div align='center'>
+  <a href="https://www.linkedin.com/in/kevinsilvaa/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a> &nbsp;
+  <a href="https://www.instagram.com/kevin.silvarj/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="instagram" height="50" width="50" /></a>
 </div>
 
 &nbsp;
