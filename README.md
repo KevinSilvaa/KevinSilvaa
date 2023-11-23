@@ -12,7 +12,6 @@
   </a>
    <br>
    <br>
-   <br>
   <h3>Tools that I use</h3>
   <img src="https://skillicons.dev/icons?i=vscode,github">
 </div>
