@@ -8,7 +8,7 @@
 <div align='center'>
   <h2>👨🏻‍💻 My Tech Stack</h2><br>
   <a align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,styledcomponents,nodejs,sass,tailwind,git" alt"Tech Stack logos">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,styledcomponents,sass,tailwind,git" alt"Tech Stack logos">
   </a>
    <br>
    <br>
@@ -21,7 +21,7 @@
 
 
 <h3 align= 'center'>
-  :email: Connect with me:
+  📧 Connect with me:
 </h3>
 <div align='center'>
   <a href="https://www.linkedin.com/in/kevinsilvaa/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" height="50" width="50" /></a> &nbsp;
