@@ -7,9 +7,9 @@
 
 <div align='center'>
   <h2>👨🏻‍💻 My Tech Stack</h2><br>
-  <a align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,styledcomponents,sass,tailwind,git" alt"Tech Stack logos">
-  </a>
+  <p align="center" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,nodejs,tailwind,styledcomponents,prisma,mysql,git" alt"Tech Stack logos">
+  </p>
    <br>
    <br>
   <h3>Tools that I use</h3>
